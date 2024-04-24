@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JainamOswal18
 - 👀 I’m interested in Learning New Skills
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java And WebDEv
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me jainamoswal1811@gmail.com
 - 
