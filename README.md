@@ -9,9 +9,7 @@ I'm an aspiring developer with a passion for **learning new skills** and explori
 ## 🛠️ **About Me**
 - 👀 **Interests**: Learning, exploring, and implementing **innovative solutions**.  
 - 🌱 **Currently Learning**:  
-  - **Java**  
-  - **Web Development**: Node.js, Express.js, React, PostgreSQL, and more!  
-  - **Data Structures & Algorithms**  
+  - **Web Development**: Node.js, Express.js, React, PostgreSQL, and more!    
 - 💞️ **Open to Collaborate On**: Open-source projects, hackathons, and innovative ideas.  
 - 🌐 **My Vision**: To create impactful solutions and make technology accessible to everyone.  
 
