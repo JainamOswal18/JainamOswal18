@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Jainam Oswal!  
 
-### 🚀 Aspiring Software Engineer | Full-Stack & Cloud Enthusiast | Hackathon Finalist  
+### 🚀 Aspiring Software Engineer | Full-Stack & Cloud Enthusiast | Hackathon Lover
 
 I’m passionate about **building scalable systems, AI-driven applications, and impactful solutions** that solve real-world problems. With hands-on experience across **full-stack, cloud, and data engineering**, I love collaborating on projects that push boundaries and deliver measurable impact.  
 
